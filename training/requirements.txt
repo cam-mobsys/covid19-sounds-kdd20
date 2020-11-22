@@ -1,0 +1,9 @@
+librosa
+scipy
+jupyter
+matplotlib
+seaborn
+tensorflow==1.15
+sklearn
+numpy
+pylint
