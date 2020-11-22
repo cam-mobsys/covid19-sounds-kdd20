@@ -3,7 +3,7 @@ This repo is for our KDD paper *Exploring Automatic Diagnosis of COVID-19 from C
 
 ## Dataset
 
-we do release our dataset used in this paper for research purpose. To obtain this, please visit our website  https://www.covid-19-sounds.org/en/blog/data_sharing.html for more details.
+We do release our dataset used in this paper for research purpose. To obtain this, please visit our website  https://www.covid-19-sounds.org/en/blog/data_sharing.html for more details.
 
 Basically, the dataset consists of ten groups of samples: 
 
