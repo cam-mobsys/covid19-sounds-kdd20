@@ -354,7 +354,7 @@ if __name__ == "__main__":
                         print("before agumentation:", len(train_x))
                         if i1 != "task1":
                             train_users = sorted(set(uid_train))
-                            random.seed(222) 
+                            random.seed(46) 
                             random.shuffle(train_users)
                             for u in train_users:
                                 train_x = np.concatenate(
